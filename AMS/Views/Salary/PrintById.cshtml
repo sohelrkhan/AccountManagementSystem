@@ -1,0 +1,62 @@
+﻿@model AMS.Models.Salary
+
+@{
+    ViewData["Title"] = "Index";
+    //Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <br/>
+    <br/>
+    <br/>
+    <h1 class="text-center">New Prattasha High School</h1>
+    
+    <br/>
+    <h1 class="text-center">Salary Information</h1>
+    <br/>
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>
+                Staff Id
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Remarks)
+            </th>
+
+        </tr>
+        </thead>
+        <tbody>
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => Model.StaffId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Amount) Tk
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.Remarks)
+            </td>
+
+        </tr>
+
+        </tbody>
+    </table>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <h4>Signature & Date</h4>
+</div>

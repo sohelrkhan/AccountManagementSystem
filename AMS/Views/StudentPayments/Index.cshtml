@@ -1,0 +1,90 @@
+﻿@model IEnumerable<AMS.Models.StudentPayments>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <h1 class="text-center">Student Payment Information</h1>
+    <br />
+    <a class="btn btn-success" asp-action="Create">+ Add Student Payment</a>
+    <br /> <br />
+
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>
+                Student Id
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Fee)
+            </th>
+            <th>
+                Payment Type
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Fine)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th>
+                Paid Amount
+            </th>
+            <th>
+                Payment Date
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Remarks)
+            </th>
+
+            <th>Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentId)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fee.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PaymentType.Name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fine) 
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Discount) 
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PaidAmount) Tk
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PaymentDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Remarks)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                    <a class="btn btn-info" asp-action="PrintById" asp-route-id="@item.Id">Print</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <h3>Total Amount from Student Payment: @ViewBag.stuPaymentTotal Tk</h3>
+</div>

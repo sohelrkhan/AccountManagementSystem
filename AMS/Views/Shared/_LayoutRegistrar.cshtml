@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AMS</title>
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link href="~/Font-Awesome/web-fonts-with-css/css/fontawesome.css" rel="stylesheet" />
+        <link href="~/Font-Awesome/web-fonts-with-css/css/fontawesome-all.css" rel="stylesheet" />
+        <link href="~/Font-Awesome/web-fonts-with-css/css/regular.css" rel="stylesheet" />
+        <link href="~/Font-Awesome/web-fonts-with-css/css/solid.css" rel="stylesheet" />
+        <link href="~/Font-Awesome/web-fonts-with-css/css/v4-shims.css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!--Gallery Page CSS-->
+        <link href="~/DataDictionsry/css/Gallery/Gallery.css" rel="stylesheet" />
+        <!--Gallery Page CSS-->
+        <link href="~/DataDictionsry/Backend/css/common/main.css" rel="stylesheet" />
+        <!--Registration Page CSS-->
+        <link href="~/DataDictionsry/Backend/css/Registration/Registrationcss.css" rel="stylesheet" />
+        <link href="~/DataDictionsry/Backend/css/Registration/datepicker.min.css" rel="stylesheet" />
+        <!--Profile Page CSS-->
+        <link href="~/DataDictionsry/Backend/css/profile/profile.css" rel="stylesheet" />
+
+        <link href="~/DataDictionsry/css/Login/Login.css" rel="stylesheet" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+              crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+              integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+              crossorigin="anonymous">
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    </environment>
+</head>
+<body class="app sidebar-mini rtl">
+    <!-- Navbar-->
+    <header class="app-header">
+        <a class="app-header__logo" asp-area="" asp-controller="Home" asp-action="RegistrarIndex">Registrar Pannel</a>
+        <!-- Sidebar toggle button--><a class="app-sidebar__toggle" href="#" data-toggle="sidebar" aria-label="Hide Sidebar"></a>
+       
+        <h3 class="text-center my-2 col-lg-8 col-sm-6">Accounts Management System</h3>
+        <a class="app-menu__item text-right col-lg-2 col-sm-2" asp-area="" asp-controller="Users" asp-action="Login"><i class="app-menu__icon"></i><span class="fas fa-sign-out-alt"><b>Log Out</b></span></a>
+
+
+    </header>
+    <!-- Sidebar menu-->
+    <div class="app-sidebar__overlay" data-toggle="sidebar"></div>
+    <aside class="app-sidebar">
+        <ul class="app-menu">
+            <li><a class="app-menu__item active" asp-area="" asp-controller="Users" asp-action="RegistrarIndex"><i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Home</span></a></li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Users</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="Logins" asp-action="Index"><i class="icon fa fa-circle-o"></i>User List</a></li>
+                    <li><a class="treeview-item" asp-controller="Logins" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add User</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Students</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="Students" asp-action="Index"><i class="icon fa fa-circle-o"></i>Student List</a></li>
+                    <li><a class="treeview-item" asp-controller="Students" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Student</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Classes</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="Classes" asp-action="Index"><i class="icon fa fa-circle-o"></i>Class List</a></li>
+                    <li><a class="treeview-item" asp-controller="Classes" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Class</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Genders</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="ComGenders" asp-action="Index"><i class="icon fa fa-circle-o"></i>Gender List</a></li>
+                    <li><a class="treeview-item" asp-controller="ComGenders" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Gender</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Scholarship Info</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="Scholarships" asp-action="Index"><i class="icon fa fa-circle-o"></i>Scholarship List</a></li>
+                    <li><a class="treeview-item" asp-controller="Scholarships" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Scholarship</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Fees</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="Fees" asp-action="Index"><i class="icon fa fa-circle-o"></i>Fees List</a></li>
+                    <li><a class="treeview-item" asp-controller="Fees" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Fees</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Fees Type</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="FeesTypes" asp-action="Index"><i class="icon fa fa-circle-o"></i>Fees Type List</a></li>
+                    <li><a class="treeview-item" asp-controller="FeesTypes" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Fees Type</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Payment Type</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="PaymentTypes" asp-action="Index"><i class="icon fa fa-circle-o"></i>Payment Type List</a></li>
+                    <li><a class="treeview-item" asp-controller="PaymentTypes" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Payment Type</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Staff</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="Staffs" asp-action="Index"><i class="icon fa fa-circle-o"></i>Staff List</a></li>
+                    <li><a class="treeview-item" asp-controller="Staffs" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Staff</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Designation</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="Designations" asp-action="Index"><i class="icon fa fa-circle-o"></i>Designation List</a></li>
+                    <li><a class="treeview-item" asp-controller="Designations" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Designation</a></li>
+                </ul>
+            </li>
+
+            <li class="treeview">
+                <a class="app-menu__item" href="#" data-toggle="treeview"><i class="app-menu__icon fa fa-edit"></i><span class="app-menu__label">Pay Scale</span><i class="treeview-indicator fa fa-angle-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a class="treeview-item" asp-controller="PayScales" asp-action="Index"><i class="icon fa fa-circle-o"></i>Pay Scale List</a></li>
+                    <li><a class="treeview-item" asp-controller="PayScales" asp-action="Create"><i class="icon fa fa-circle-o"></i>Add Pay Scale</a></li>
+                </ul>
+            </li>
+
+            <li><a class="app-menu__item active" asp-area="" asp-controller="Users" asp-action="Login"><i class="app-menu__icon fa fa-dashboard"></i><span class="app-menu__label">Log Out</span></a></li>
+        </ul>
+    </aside>
+    <div class="body-content container-fluid ">
+        @RenderBody()
+    </div>
+    <footer>
+        <div class="divider"></div>
+        <div class="copyright text-center">
+            <p class="pb-4"> &copy;2019 - Accounts Management System for New Prattasha High School </p>
+        </div>
+    </footer>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/DataDictionsry/Backend/js/common/jquery-3.2.1.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/DataDictionsry/Backend/js/common/main.js"></script>
+        <script src="~/DataDictionsry/Backend/js/common/popper.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+                crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+                integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+                crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+                crossorigin="anonymous"></script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+        <script src="~/DataDictionsry/js/Registration/datepicker.min.js"></script>
+    </environment>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

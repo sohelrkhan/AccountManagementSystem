@@ -1,0 +1,143 @@
+﻿@model IEnumerable<AMS.Models.ViewModels.FeesViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+
+    decimal totalFeesAmount = 0;
+    decimal due = 0;
+
+}
+
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <h1 class="text-center">Student Fees Collection</h1>
+    <br />
+
+    <section class="m-1">
+        <div class="border-info border p-4">
+            <h4 class="text-center"><b>Student Information</b></h4>
+            <br />
+            <div class="row">
+                <div class="col-md-4 text-justify">
+                    <label>Student ID: @ViewBag.studentId </label>
+
+                    <br />
+                    <label>Student Name: - </label>
+                    <b><span class="text-uppercase">@ViewBag.StudentName </span></b>
+                </div>
+
+                <div class="col-md-4 text-justify">
+                    <label>Scholarship: @ViewBag.StudentScholarship %</label>
+                    <br />
+                    <label>Class: @ViewBag.className</label>
+                </div>
+
+                <div class="col-md-4 text-justify">
+                    <label>DOB: @ViewBag.StudentDOB</label>
+
+                    <br />
+                    <label>Admitted Year: @ViewBag.StudentAdmitedYear</label>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Fee Name
+                </th>
+                <th>
+                    Amount
+                </th>
+                <th>
+                    Due Date
+                </th>
+
+                <th>
+                    Discount
+                </th>
+                <th>
+                    Fine
+                </th>
+                <th>
+                    Paid Amount
+                </th>
+                <th>
+                    Paid Date
+                </th>
+
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fees.Name)
+
+                    </td>
+                    <td id="amount">
+                        @Html.DisplayFor(modelItem => item.fees.Amount)
+                        @{
+                            totalFeesAmount += item.fees.Amount;
+                        }
+
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fees.DueDate)
+
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.studentPayments.Discount)
+
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.studentPayments.Fine)
+
+                    </td>
+                    <td id="tlp">
+                        @Html.DisplayFor(modelItem => item.studentPayments.PaidAmount)
+
+                    </td>
+                    <td id="pd">
+                        @Html.DisplayFor(modelItem => item.studentPayments.PaymentDate)
+
+                    </td>
+
+                    <td>
+                        <a asp-controller="StudentPayments" asp-action="Create" asp-route-id="">
+                            <input type="button" class="btn btn-primary" value="Pay" />
+                        </a>   
+                        
+                    </td>
+
+                </tr>
+
+            }
+
+        <td><h5>Total Amount =</h5></td>
+        <td><h5>@totalFeesAmount</h5></td>
+        <td><h5>  </h5></td>
+
+        <td><h5>@ViewBag.Discount</h5></td>
+        <td><h5>@ViewBag.fine</h5></td>
+        <td><h5>@ViewBag.paidAmount</h5></td>
+        
+        </tbody>
+    </table>
+    <h5>Total Only Tuition Fees = @ViewBag.totalTutionFess</h5>
+    <h5>Total Scholarship Amount = @ViewBag.GetScholarship</h5>
+    <h5>Total Payable Amount = @ViewBag.NeedToPay</h5>
+    <h5>Total Paid Amount = @ViewBag.paidAmount</h5>
+    <h5>Total Due = @ViewBag.due</h5>
+
+    
+</div>

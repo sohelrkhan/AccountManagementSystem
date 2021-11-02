@@ -1,0 +1,64 @@
+﻿@model IEnumerable<AMS.Models.Staffs>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <h1 class="text-center">Staff Information</h1>
+    <br />
+
+    <form asp-controller="SalaryView" asp-action="StaffList" class=" form-group">
+        <div class="active-cyan-3 active-cyan-4 mb-4  row">
+            <input class="form-control col-lg-3" type="text" placeholder="Staff Id" aria-label="Search" name="id">
+            <input type="submit" class="form-control col-md-2 ml-2 btn-primary btn-info" name="id" value="Search" />
+        </div>
+    </form>
+   
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Staff Id
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Cell)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Designation)
+                </th>
+                <th>Action</th>   
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cell)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Designation.Name)
+                    </td>
+                    <td>
+                        <a class="btn btn-info btn-sm" asp-action="GenerateSalary2" asp-route-id="@item.Id">Generate Salary</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Accountant";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <h1 class="text-center">Welcome To Accountant Pannel</h1>
+    <br/><br/>
+    
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <td>
+                    <b>Total Student</b>
+                </td>
+                <td>
+                    @ViewBag.totalStudent Person
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Total Staff</b>
+                </td>
+                <td>
+                    @ViewBag.totalStaff Person
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <b>Total Student Payment Collection</b>
+                </td>
+                <td>
+                    @ViewBag.stuPaymentTotal TK
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <b>Total Donation Collection</b>
+                </td>
+                <td>
+                    @ViewBag.donationTotal TK
+                </td>
+            </tr>
+
+        <tr>
+            <td>
+                <b>Total Staff Salary</b>
+            </td>
+            <td>
+                @ViewBag.salaryTotal TK
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+                <b>Total Expense</b>
+            </td>
+            <td>
+                @ViewBag.expenseTotal TK
+            </td>
+        </tr>
+        </thead>
+    </table>
+    <br/>
+             
+</div>
+
+

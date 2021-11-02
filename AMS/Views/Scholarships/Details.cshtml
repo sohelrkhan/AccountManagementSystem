@@ -1,0 +1,32 @@
+﻿@model AMS.Models.Scholarships
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutRegistrar.cshtml";
+}
+
+
+<div class="app-content">
+    <div>
+        <h4>Scholarship Details</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                Student Id
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.StudentId)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Percentage)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Percentage)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

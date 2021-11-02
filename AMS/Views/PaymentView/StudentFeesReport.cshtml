@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+<link href="~/css/table.css" rel="stylesheet" />
+
+
+<div class="app-content">
+    <h1 class="text-center">Student Fees Report</h1>
+    <br />
+
+    <form method="post" action="" class=" form-group">
+        <div class="active-cyan-3 active-cyan-4 mb-4  row">
+            <input class="form-control col-lg-3" type="text" placeholder="Student ID" aria-label="Search">
+            <input type="submit" class="form-control col-md-2 ml-2 btn-primary btn-info" name="Search" value="Search" />
+        </div>
+    </form>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Student ID
+                </th>
+
+                <th>
+                    Student Name
+                </th>
+                <th>
+                    Total Amount
+                </th>
+                <th>
+                    Paid Amount
+                </th>
+
+                <th>
+                    Due
+                </th>
+                
+
+                
+            </tr>
+        </thead>
+
+        <tbody>
+            @*@foreach (var item in Model)
+            {*@
+                <tr>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.students.UserId)*@
+                    </td>
+
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.fees.Name)*@
+                    </td>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.fees.Amount)*@
+                    </td>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.fees.DueDate)*@
+                    </td>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.studentPayments.Discount)*@
+                    </td>                                      
+                </tr>
+
+            @*}*@           
+        </tbody>
+    </table>
+</div>

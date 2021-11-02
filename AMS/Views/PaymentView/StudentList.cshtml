@@ -1,0 +1,76 @@
+﻿@model IEnumerable<AMS.Models.Students>
+@{
+    ViewData["Title"] = "Student List";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <h1 class="text-center">Student List</h1>
+
+    <hr />
+    <form asp-controller="PaymentView" asp-action="StudentList" class=" form-group">
+        <div class="active-cyan-3 active-cyan-4 mb-4  row">
+            <input class="form-control col-lg-3" type="text" placeholder="Student Id" aria-label="Search" name="id">
+            <input type="submit" class="form-control col-md-2 ml-2 btn-primary btn-info" name="id" value="Search" />
+        </div>
+    </form>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Student ID
+                </th>
+                <th>
+                    First Name
+                </th>
+                <th>
+                    Last Name
+                </th>
+                <th>
+                    Class
+                </th>
+
+                
+                <th>
+                    Gender
+                </th>
+
+
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Class.Name)
+                </td>
+                
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender.Name)
+                </td>
+
+                <td>
+                    <a asp-controller="PaymentView" asp-action="FeesList" asp-route-id="@item.Id" asp-route-classId="@item.ClassId">
+                        <input type="button" class="btn btn-primary" value="Collect Fees" />
+                    </a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+

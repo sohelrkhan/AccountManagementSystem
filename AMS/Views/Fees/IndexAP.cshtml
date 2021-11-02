@@ -1,0 +1,61 @@
+﻿@model IEnumerable<AMS.Models.Fees>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+<link href="~/css/table.css" rel="stylesheet" />
+
+
+<div class="app-content">
+    <h1 class="text-center">Fees Information</h1>
+    <br />
+
+    <table class="table table-bordered table-hover">
+
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Amount)
+                </th>
+                <th>
+                    Due Date
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Class)
+                </th>
+                <th>
+                    Fees Type
+                </th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Amount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DueDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Class.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FeesType.Name)
+                    </td>                   
+                </tr>
+            }
+            
+        </tbody>
+    </table>
+</div>

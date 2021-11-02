@@ -1,0 +1,52 @@
+﻿@model IEnumerable<AMS.Models.SalaryIncrements>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+<h1 class="text-center">Salary Increment Information</h1>
+<br />
+<a class="btn btn-success" asp-action="Create">+ Add Salary Increment</a>
+<br /> <br />
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                Staff Id
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StaffId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

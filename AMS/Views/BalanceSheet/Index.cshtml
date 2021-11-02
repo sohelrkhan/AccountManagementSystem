@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <h1 class="text-center">Balance Sheet</h1>
+    <br />
+
+    <h3> Income Sources List</h3>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Income Source Name
+                </th>
+                <th>
+                    Amount (TK)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    Student Payment
+                </td>
+                <td>
+                    @ViewBag.stuPaymentTotal Tk
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Donation
+                </td>
+                <td>
+                    @ViewBag.donationTotal Tk
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Grand Total Income</b> 
+                </td>
+                <td>
+                    <b>@ViewBag.totalIncome Tk</b> 
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3> Expenses Source List</h3>
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>
+                Expenses Source Name
+            </th>
+            <th>
+                Amount (TK)
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>
+                Staff Salary
+            </td>
+            <td>
+                @ViewBag.salaryTotal Tk
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Expense
+            </td>
+            <td>
+                @ViewBag.expenseTotal Tk
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>Grand Total Expense</b> 
+            </td>
+            <td>
+                <b>@ViewBag.totalExpenses Tk</b> 
+            </td>
+        </tr>
+        </tbody>
+    </table>
+   
+    <br />
+    <h3 class="text-center">Balance= @ViewBag.balance</h3>
+</div>

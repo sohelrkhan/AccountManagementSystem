@@ -1,0 +1,206 @@
+﻿@model AMS.Models.Staffs
+@{
+    ViewData["Title"] = "GenerateSalary";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+@{
+    int month = 0;
+    int year = 0;
+    decimal total = 0;
+}
+<link href="~/css/table.css" rel="stylesheet" />
+
+<div class="app-content">
+    <h1 class="text-center">Staff Salary</h1>
+    <br />
+
+    <form asp-controller="SalaryView" asp-action="GenerateSalary2" class=" form-group">
+        <div class="active-cyan-3 active-cyan-4 mb-4  row">
+            @*<input class="form-control col-lg-3" type="text" placeholder="" aria-label="Search" value="@Model.Id" name="id">*@
+            <input class="form-control col-lg-3" type="text" placeholder="Month" aria-label="Search" name="month">
+            <input class="form-control col-lg-3" type="text" placeholder="Year" aria-label="Search" name="year">
+            <input type="submit" class="form-control col-md-2 ml-2 btn-primary btn-info" value="Search" />
+        </div>
+    </form>
+
+
+    <section class="m-1">
+        <div class="border-info border p-4">
+            <h4 align="center"><b>Staff Information</b></h4>
+            <br />
+            <div class="row">
+                <div class="col-md-6 text-justify">
+                    <label>Staff ID-- @Model.Id</label>
+
+                    <br />
+                    <label>Staff Name-- @Model.Name </label>
+                    <span> </span>
+                </div>
+                <div class="col-md-6 text-justify">
+                    <label>Designation-- @Model.Designation.Name</label>
+
+                    <br />
+                    <label>Cell-- @Model.Cell </label>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <br />
+
+    <h4>1. Pay Scale</h4>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>
+                Designation
+            </th>
+            <th>
+                Amount
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model.Designation.PayScales)
+        {
+            <tr>
+                <td>
+
+                    @item.Designation.Name
+                </td>
+                <td>
+                    @item.Amount
+                    @{
+                        total += item.Amount;
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <h4>2. Salary Increment</h4>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>Staff ID</th>
+            <th>
+                Date
+            </th>
+            <th>
+                Amount
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model.SalaryIncrements)
+        {
+            <tr>
+                <td> @item.StaffId</td>
+                <td>
+                    @item.Date
+                </td>
+                <td>
+                    @item.Amount
+                    @{
+                        total += item.Amount;
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+ 
+
+    <h4>3. Bonus</h4>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>Staff ID</th>
+            <th>
+                Name
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                Amount
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model.Bonus.Where(x => x.Date.Month == Convert.ToInt32(ViewBag.month) && x.Date.Year == Convert.ToInt32(ViewBag.year)))
+        {
+            <tr>
+                <td>@item.StaffId</td>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @item.Date
+                </td>
+                <td>
+                    @item.Amount
+                    @{
+                        total += item.Amount;
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <h4>4. Extra Income</h4>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+
+        <tr>
+            <th>Staff ID</th>
+            <th>
+                Name
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                Amount
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model.ExtraIncomes.Where(x => x.Date.Month == Convert.ToInt32(ViewBag.month)  && x.Date.Year == Convert.ToInt32(ViewBag.year)))
+        {
+            <tr>
+                <td>
+                    @item.StaffId
+                </td>
+                <td>
+
+                    @item.Name
+                </td>
+                <td>
+                    @item.Date
+                </td>
+                <td>
+                    @item.Amount
+                    @{
+                        total += item.Amount;
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <h4>Monthly Grand Total= @total</h4>
+    <a asp-controller="Salary" asp-action="Create" asp-route-id="@Model.Id">
+        <input type="button" class="btn btn-primary" value="Pay Salary" />
+    </a>
+</div>
+

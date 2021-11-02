@@ -1,0 +1,835 @@
+C:\Users\User\Desktop\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.deps.json
+C:\Users\User\Desktop\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.json
+C:\Users\User\Desktop\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.dev.json
+C:\Users\User\Desktop\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.dll
+C:\Users\User\Desktop\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.pdb
+C:\Users\User\Desktop\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.dll
+C:\Users\User\Desktop\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.pdb
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfo.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.input.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.output.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorCoreGenerate.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Create.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Delete.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Details.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Edit.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Index.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Create.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Delete.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Details.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Edit.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Index.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAccountant.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutRegistrar.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\UsersUp\Create.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\UsersUp\Delete.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\UsersUp\Details.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\UsersUp\Edit.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\UsersUp\Index.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\AccountantIndex.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\RegistrarIndex.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.Views.pdb
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.dll
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.pdb
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CopyComplete
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csprojAssemblyReference.cache
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\User\Desktop\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.deps.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.dev.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CoreCompileInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfoInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.input.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.output.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorCoreGenerate.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAccountant.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutRegistrar.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\AccountantIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\RegistrarIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CopyComplete
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csprojAssemblyReference.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\FeesList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentFeesReport.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.deps.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.dev.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csprojAssemblyReference.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CoreCompileInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfoInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.input.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.output.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorCoreGenerate.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\FeesList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentFeesReport.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAccountant.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutRegistrar.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\AccountantIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\RegistrarIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CopyComplete
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\Software Work\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.deps.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.dev.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CoreCompileInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfoInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.input.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.output.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorCoreGenerate.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\FeesList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentFeesReport.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAccountant.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutRegistrar.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\AccountantIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\RegistrarIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CopyComplete
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu_NPHC\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryView\StaffList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.deps.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.dev.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\bin\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CoreCompileInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfoInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.input.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.output.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorCoreGenerate.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\BalanceSheet\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\FeesList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentFeesReport.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryView\GenerateSalary2.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryView\StaffList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAccountant.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutRegistrar.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\AccountantIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\RegistrarIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CopyComplete
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\AMS.csprojAssemblyReference.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.deps.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.dev.json
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.Views.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.csprojAssemblyReference.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CoreCompileInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfoInputs.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.input.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.output.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorCoreGenerate.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\BalanceSheet\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\PrintAll.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\PrintAll.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\FeesList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentFeesReport.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryView\GenerateSalary2.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryView\StaffList.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\PrintById.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAccountant.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutRegistrar.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\PrintById.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\DetailsAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\IndexAP.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\AccountantIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\RegistrarIndex.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cache
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cs
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.dll
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.pdb
+E:\Web Development 2019\01. Accounts Management System OurEdu\AMS_OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CopyComplete
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.deps.json
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.json
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.runtimeconfig.dev.json
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.dll
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.pdb
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.Views.dll
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\bin\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.csprojAssemblyReference.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CoreCompileInputs.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorAssemblyInfo.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfoInputs.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.AssemblyInfo.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.input.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.TagHelpers.output.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorCoreGenerate.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\BalanceSheet\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Bonuses\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Classes\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ComGenders\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Designations\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Donations\PrintAll.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Expenses\PrintAll.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\ExtraIncomes\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\FeesTypes\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\DetailsAP.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Fees\IndexAP.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Logins\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentTypes\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\FeesList.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentFeesReport.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PaymentView\StudentList.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\PayScales\IndexAP.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryIncrements\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryView\GenerateSalary2.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\SalaryView\StaffList.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Salary\PrintById.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Scholarships\IndexAP.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAccountant.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutRegistrar.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Staffs\IndexAP.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\StudentPayments\PrintById.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\DetailsAP.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Students\IndexAP.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\AccountantIndex.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\Login.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\Users\RegistrarIndex.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cache
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.RazorTargetAssemblyInfo.cs
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.Views.pdb
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.dll
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.pdb
+E:\01. Web Development 2019\02. Accounts Management System OurEdu\AMS_OurEdu\AMS WebApp\AMS\obj\Debug\netcoreapp2.2\AMS.csproj.CopyComplete

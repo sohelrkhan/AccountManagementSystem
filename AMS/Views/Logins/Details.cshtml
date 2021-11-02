@@ -1,0 +1,52 @@
+﻿@model AMS.Models.Login
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutRegistrar.cshtml";
+}
+
+
+<div class="app-content">
+    <h1 class="text-center">Users Login Details</h1>
+    <br />
+    <div>
+        
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                User Type
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.UserType)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+            <dt class="col-sm-2">
+                First Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+            <dt class="col-sm-2">
+                Last Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model.UserId">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+﻿@model AMS.Models.Fees
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutRegistrar.cshtml";
+}
+
+<div class="app-content">
+
+    <h4>Fees</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ClassId" class="control-label">Class Id</label>
+                    <select asp-for="ClassId" class="form-control" asp-items="ViewBag.ClassId"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FeesTypeId" class="control-label">Fees Type ID</label>
+                    <select asp-for="FeesTypeId" class="form-control" asp-items="ViewBag.FeesTypeId"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Amount" class="control-label"></label>
+                    <input asp-for="Amount" class="form-control" />
+                    <span asp-validation-for="Amount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DueDate" class="control-label">Due Date</label>
+                    <input type="date" asp-for="DueDate" class="form-control" />
+                    <span asp-validation-for="DueDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+
+</div>

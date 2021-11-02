@@ -1,0 +1,77 @@
+﻿@model AMS.Models.Students
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutAccountant.cshtml";
+}
+
+<div class="app-content">
+
+    <div>
+        <h4>Student Details Information</h4>
+        <hr />
+        <dl class="row">
+
+            <dt class="col-sm-2">
+                User Id
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+            <dt class="col-sm-2">
+                First Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+            <dt class="col-sm-2">
+                Last Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+
+            <dt class="col-sm-2">
+                Admitted Year
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.AdmittedYear)
+            </dd>
+            <dt class="col-sm-2">
+                Present Address
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.PresentAddress)
+            </dd>
+            <dt class="col-sm-2">
+                Permanent Address
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.PermanentAddress)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Dob)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Dob)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Class)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Class.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Gender)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Gender.Name)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        
+        <a asp-action="">Back to List</a>
+    </div>
+</div>
